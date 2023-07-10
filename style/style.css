@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.10);
+}
+
+.banner {
+    margin: 137px 193px 64px 184px;
+}
+
+.banner-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    margin-bottom: 28px;
+}
+
+.banner-description {
+    margin-top: 0px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 45px;
+    border: 0;
+}
+
+.banner-img {
+    padding-right: 131px;
+}
+
+.main-content {
+    text-align: center;
+    padding-top: 250px;
+}
+
+.main-titel {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+.main-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 0px;
+}
+
+.images {
+    padding-top: 0;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 110px 76px 0px 76px;
+
+}
+
+.img-2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 117px 47px 51px 47px
+}
+
+.img-3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 67px 75px 0px 75px
+}
+
+.pic-titel {
+    display: flex;
+
+}
+
+.pink {
+    padding: 32px 58px 50px 266px;
+    color: #272727;
+    font-size: 24px;
+    text-decoration-line: underline;
+
+}
+
+.red {
+    padding: 32px 58px 50px 297px;
+    color: #272727;
+    font-size: 24px;
+    text-decoration-line: underline;
+}
+
+.yellow {
+    padding: 32px 0px 50px 266px;
+    color: #272727;
+    font-size: 24px;
+    text-decoration-line: underline;
+}
